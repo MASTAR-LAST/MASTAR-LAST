@@ -71,7 +71,7 @@
 <a href="https://codepen.com/mastar-last" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/TWISTER_FROSTE" target="_blank">
+<a href="https://stackoverflow.com/users/twister-froste" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/twisters50" target="_blank">
