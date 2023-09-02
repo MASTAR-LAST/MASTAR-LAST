@@ -1,10 +1,10 @@
-### <div align="center">I'm Muhammed, a full-time Python developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Muhammed, a self-learner studying Cyber Security 📚 and System Architecture👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning Bug Hunting  
   
 
-- ❓ Ask me about anything related to related technologies  
+- ❓ Ask me about anything related totechnologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
